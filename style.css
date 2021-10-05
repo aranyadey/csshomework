@@ -1,0 +1,32 @@
+h1{
+	color: yellow;
+	color: red;
+	color: cyan;
+}
+
+
+
+.border_black{
+	border: 20px solid blue;
+}
+
+.ssb{
+	background-color: gray;
+}
+
+
+#ssb{
+font-size: 25px;
+}
+
+h3{
+	font-size: 75px;
+}
+
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
